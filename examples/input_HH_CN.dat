@@ -1,0 +1,23 @@
+----------------------
+-- Model Parameters --
+----------------------
+C	1.0
+Iapp	0.0
+gNa	120.0
+gK2	36.0
+gL	0.3
+ENa	50.0
+EK	-77.0
+EL	-54.3
+length	10
+diameter	6.0
+gs	10
+D	0.0
+----------------------------
+-- Integration Parameters --
+----------------------------
+T	1e7
+dt	1e-2
+print_step	30
+output_file	./data/output_HH_diam_6.0.dat
+

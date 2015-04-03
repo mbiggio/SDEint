@@ -1,0 +1,23 @@
+----------------------
+-- Model Parameters --
+----------------------
+C	0.5
+Iapp	0.0
+gNa	200.0
+gK2	30.0
+gL	8.0
+ENa	0.045
+EK2	-0.070
+EL	-0.046
+Vshift	-0.023
+NNa	6000
+NK	1800
+D	0.0
+----------------------------
+-- Integration Parameters --
+----------------------------
+T	20.0
+dt	1e-6
+print_step	100
+output_file	output_Leech_Orio.dat
+
